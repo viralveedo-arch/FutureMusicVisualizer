@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.FutureMusicVisualizer" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#7C4DFF</item>
+        <item name="colorPrimaryVariant">#4F46E5</item>
+        <item name="colorSecondary">#00E5FF</item>
+        <item name="android:statusBarColor">#090A1A</item>
+        <item name="android:navigationBarColor">#090A1A</item>
+        <item name="android:windowBackground">#090A1A</item>
+    </style>
+</resources>
